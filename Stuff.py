@@ -88,3 +88,4 @@ if App_Mode == "Help":
     print " 2 is in D colours but with a lower brightness limit"
     print " 3 is the same as 1, but with R colours"
     print " 4 is the same as 2, but with R colours"
+print 'done!'
